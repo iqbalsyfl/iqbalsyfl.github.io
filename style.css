@@ -1,0 +1,32 @@
+.jumbotron {
+    background-image: url('images/nexide.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    height: 500px;
+    margin-top: -69px;
+}
+
+.jumbotron .container {
+    margin-top: 130px;
+}
+
+.nav-link {
+    margin-left: 30px;
+    text-transform: uppercase;
+}
+
+.container .uhuy {
+    margin-top: -90px;
+    margin-bottom: 80px;
+}
+
+footer {
+    background-color: rgb(42, 41, 41);
+    bottom: 0;
+    margin-top: 50px;
+    color: white;
+}
+
+footer .container .row .col-md p {
+    font-size: 14px;
+}
